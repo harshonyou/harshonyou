@@ -9,3 +9,5 @@
 
 
 Passionate about **Automation**. Likes to write code. **Scroll down!**
+
+Latest: Mohan et al. (2024) "_Beyond Racial Bias: Advancing Fairness in In-the-Wild Facial Reconstruction_" [[report](https://harshonyou.github.io/dissertation/report.pdf)] [[code](https://github.com/harshonyou/dissertation)]
