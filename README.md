@@ -7,7 +7,10 @@
 [![github page](https://img.shields.io/badge/-@harshonyou-313131?style=flat-square&labelColor=313131&logo=github&logoColor=white&color=313131)](https://harshonyou.github.io/)    
 [![linkedin](https://img.shields.io/badge/-@harshonyou-313131?style=flat-square&labelColor=313131&logo=linkedin&logoColor=white&color=313131)](https://www.linkedin.com/in/harshonyou/)  
 
-
-Passionate about **Automation**. Likes to write code. **Scroll down!**
+<br><br><br>
 
 Latest: Mohan et al. (2024) "_Beyond Racial Bias: Advancing Fairness in In-the-Wild Facial Reconstruction_" [[report](https://harshonyou.github.io/dissertation/report.pdf)] [[code](https://github.com/harshonyou/dissertation)]
+
+<br>
+
+Passionate about **Automation**. Likes to write code. **Scroll down!**
