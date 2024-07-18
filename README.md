@@ -1,4 +1,4 @@
-<a href="https://harsh.sh/" target="_self" rel="noopener noreferrer">
+<a href="https://harsh.fr/" target="_self" rel="noopener noreferrer">
 <img align="left" src="https://i.ibb.co/107x1T4/logo1.png">
 </a>
 
