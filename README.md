@@ -2,8 +2,9 @@
 <img align="left" src="hiss.svg" width="350">
 </a>
 
-[![web](https://img.shields.io/badge/web-harsh.fr-313131?style=flat-square&labelColor=313131&color=313131)](https://harsh.fr/)           
-[![linkedin](https://img.shields.io/badge/-@harshonyou-313131?style=flat-square&labelColor=313131&logo=linkedin&logoColor=white&color=313131)](https://www.linkedin.com/in/harshonyou/)  
+[![web](https://img.shields.io/badge/web-harsh.fr-313131?style=flat-square&labelColor=313131&color=313131)](https://harsh.fr/)
+<br>
+[![linkedin](https://img.shields.io/badge/linkedin-@harshonyou-313131?style=flat-square&logo=linkedin&logoColor=313131)](https://www.linkedin.com/in/harshonyou/)
 
 <br><br><br><br>
 
