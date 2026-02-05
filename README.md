@@ -1,5 +1,5 @@
 <a href="https://harsh.fr/" target="_self" rel="noopener noreferrer">
-<img align="left" src="https://i.ibb.co/107x1T4/logo1.png">
+<img align="left" src="hiss.svg" width="350">
 </a>
 
 [![web](https://img.shields.io/badge/web-harsh.fr-313131?style=flat-square&labelColor=313131&color=313131)](https://harsh.fr/)           
